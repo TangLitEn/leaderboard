@@ -21,6 +21,8 @@ In my setup, I had set the tabs' content to be as follows:
 
 ![Screenshot 2023-08-26 at 12 37 28 AM](https://github.com/TangLitEn/leaderboard/assets/65808174/088660bd-c89e-4fb7-b84c-7559b20a1806)
 
+Open up the app script environment and then copy and paste the content from the MAIN.gs files provided in this GitHub repo. 
+
 # 🔥Customisation
 You may modify the tab name, just need to variable in the section below. 
 
